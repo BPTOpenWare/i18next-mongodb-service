@@ -1,0 +1,1 @@
+# Simple i18Next service using gRPC, OAuth2, and Mysql JSON

@@ -1,2 +1,2 @@
 # i18next-mysql-service
-Provides a simple i18next service
+Simple i18Next service using gRPC, OAuth2, and Mysql JSON
